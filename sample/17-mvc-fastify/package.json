@@ -20,10 +20,10 @@
   },
   "dependencies": {
     "@nestjs/common": "11.1.2",
-    "@nestjs/core": "11.1.2",
+    "@nestjs/core": "11.1.18",
     "@nestjs/platform-fastify": "11.1.2",
-    "@fastify/static": "8.2.0",
-    "handlebars": "4.7.8",
+    "@fastify/static": "9.1.1",
+    "handlebars": "4.7.9",
     "@fastify/view": "11.1.0",
     "reflect-metadata": "0.2.2",
     "rimraf": "6.0.1",
